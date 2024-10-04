@@ -1,0 +1,2 @@
+run:
+	MODE=dev air
